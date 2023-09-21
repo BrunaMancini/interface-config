@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
 
-server.get('/api/beneficiaryLTI/balances', (req, res) => {
+server.get('/api/beneficiaryLTI/interface-config', (req, res) => {
     const db = router.db;
     const data = db.get('api.beneficiaryLTI.interface-config').value();
     res.json(data);
