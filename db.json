@@ -4,44 +4,44 @@
       "interface-config": 
       [
         {
-          "planType":"",
-          "property":"",
-          "visible":""
+          "planType":"Stock Options",
+          "property":"expiryDate",
+          "visible":"0"
         },
         {
-          "planType":"",
-          "property":"",
-          "visible":""
+          "planType":"Stock Options",
+          "property":"dividendsAmountOverGranted",
+          "visible":"0"
         },
         {
-          "planType":"",
-          "property":"",
-          "visible":""
+          "planType":"Ações Restritas",
+          "property":"performanceConditionAchieved",
+          "visible":"0"
         },
         {
-          "planType":"",
-          "property":"",
-          "visible":""
+          "planType":"Ações Restritas",
+          "property":"payment",
+          "visible":"0"
         },
         {
-          "planType":"",
-          "property":"",
-          "visible":""
+          "planType":"Stock Options",
+          "property":"stockPriceAtGrant",
+          "visible":"0"
         },
         {
-          "planType":"",
-          "property":"",
-          "visible":""
+          "planType":"Stock Options",
+          "property":"costForFullExercise",
+          "visible":"0"
         },
         {
-          "planType":"",
-          "property":"",
-          "visible":""
+          "planType":"Ações Restritas",
+          "property":"matchingRatio",
+          "visible":"0"
         },
         {
-          "planType":"",
-          "property":"",
-          "visible":""
+          "planType":"Ações Restritas",
+          "property":"investedPercentage",
+          "visible":"0"
         }
       ]
     } 
