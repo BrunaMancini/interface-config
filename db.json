@@ -1,66 +1,72 @@
 {
   "api": {
     "beneficiaryLTI": {
-      "interface-config": 
-      [
+      "interface-config": [
         {
-          "planType":"Stock Options",
-          "property":"expiryDate",
-          "altText":"",
-          "language":"",
-          "visible":"0"
+          "planType": "Stock Options",
+          "property": "expiryDate",
+          "altText": "",
+          "language": "",
+          "visible": "0",
+          "position": ""
         },
         {
-          "planType":"Stock Options",
-          "property":"dividendsAmountOverGranted",
-          "altText":"",
-          "language":"",
-          "visible":"0"
+          "planType": "Stock Options",
+          "property": "dividendsAmountOverGranted",
+          "altText": "",
+          "language": "",
+          "visible": "0",
+          "position": ""
         },
         {
-          "planType":"Ações Restritas",
-          "property":"performanceConditionAchieved",
-          "altText":"",
-          "language":"",
-          "visible":"0"
+          "planType": "Ações Restritas",
+          "property": "performanceConditionAchieved",
+          "altText": "",
+          "language": "",
+          "visible": "0",
+          "position": ""
         },
         {
-          "planType":"Ações Restritas",
-          "property":"payment",
-          "altText":"",
-          "language":"",
-          "visible":"0"
+          "planType": "Ações Restritas",
+          "property": "payment",
+          "altText": "",
+          "language": "",
+          "visible": "0",
+          "position": ""
         },
         {
-          "planType":"Stock Options",
-          "property":"stockPriceAtGrant",
-          "altText":"Preço de ação na outorga",
-          "language":"pt-BR",
-          "visible":"1"
+          "planType": "Stock Options",
+          "property": "stockPriceAtGrant",
+          "altText": "Preço de ação na outorga",
+          "language": "pt-BR",
+          "visible": "1",
+          "position": "3"
         },
         {
-          "planType":"Stock Options",
-          "property":"costForFullExercise",
-          "altText":"Custo para exercício do lote",
-          "language":"pt-BR",
-          "visible":"1"
+          "planType": "Stock Options",
+          "property": "costForFullExercise",
+          "altText": "Custo para exercício do lote",
+          "language": "pt-BR",
+          "visible": "1",
+          "position": "1"
         },
         {
-          "planType":"Ações Restritas",
-          "property":"matchingRatio",
-          "altText":"Múltiplo",
-          "language":"pt-BR",
-          "visible":"1"
+          "planType": "Ações Restritas",
+          "property": "matchingRatio",
+          "altText": "Múltiplo",
+          "language": "pt-BR",
+          "visible": "1",
+          "position": "4"
         },
         {
-          "planType":"Ações Restritas",
-          "property":"investedPercentage",
-          "altText":"Porcentagem investida no matching",
-          "language":"pt-BR",
-          "visible":"1"
+          "planType": "Ações Restritas",
+          "property": "investedPercentage",
+          "altText": "Porcentagem investida no matching",
+          "language": "pt-BR",
+          "visible": "1",
+          "position": "3"
         }
       ]
-    } 
+    }
   }
 }
-    
